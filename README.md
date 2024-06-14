@@ -42,3 +42,8 @@ if __name__ == "__main__":
     main()
 
 ```
+
+
+https://github.com/The-Final-Apex/Persia/releases/tag/Persia
+release info adn download
+not yes available on pip
