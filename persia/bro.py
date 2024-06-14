@@ -1,0 +1,17 @@
+error_messages = {
+    SystemError: """
+    The error you are experiencing is a result of a failure in the system's ability to function properly. This can occur due to a variety of factors, including hardware or software issues, configuration problems, or environmental factors. In this case, the system has encountered an unexpected condition that prevents it from continuing to operate as intended. This may be due to a bug in the code, a misconfigured setting, or an unexpected input. To resolve this issue, please review the system's documentation and configuration settings to ensure that everything is properly set up and functioning as intended. If the issue persists, please contact the system's support team for further assistance.
+""",
+    SyntaxError: """
+    The syntax error you are experiencing is due to a problem with the way your code is structured. This can occur when there is a mismatch between the code you are writing and the expected format of the programming language. In this case, the system has encountered an unexpected character or sequence of characters that prevents it from properly parsing the code. To resolve this issue, please review your code and ensure that it is formatted correctly according to the programming language's syntax rules. If you are unsure about the correct syntax, please refer to the language's documentation or seek assistance from a qualified programmer.
+""",
+    TypeError: """
+    The type error you are experiencing is due to a mismatch between the expected data type and the actual data type of a variable or value. This can occur when there is a mismatch between the type of data being stored or retrieved from a variable or database, and the expected type of data required by the system. In this case, the system has encountered an unexpected data type that prevents it from properly processing the data. To resolve this issue, please review your code and ensure that all variables and values are properly declared and initialized with the correct data type. If you are unsure about the correct data type, please refer to the language's documentation or seek assistance from a qualified programmer.
+""",
+    RuntimeError: """
+    The runtime error you are experiencing is due to a problem with the way your code is executing. This can occur when there is a logical error or inconsistency in your code that prevents it from running correctly. In this case, the system has encountered an unexpected condition that prevents it from continuing to execute your code as intended. To resolve this issue, please review your code and ensure that it is logically correct and free of errors. If you are unsure about how to fix the issue, please refer to the language's documentation or seek assistance from a qualified programmer.
+""",
+    OverflowError: """
+    The overflow error you are experiencing is due to an attempt to store or process a value that is larger than what can be handled by the system. This can occur when there is an attempt to store or process a value that exceeds the maximum limit of what can be stored in memory or processed by the system. In this case, the system has encountered an unexpectedly large value that prevents it from properly processing the data. To resolve this issue, please review your code and ensure that all variables and values are properly initialized and limited within their respective limits. If you are unsure about how to fix the issue, please refer to the language's documentation or seek assistance from a qualified programmer.
+"""
+}

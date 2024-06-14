@@ -1,0 +1,22 @@
+error_messages = {
+    SystemError: "It looks like the system has gone a little haywire!",
+    SyntaxError: "Oops, it looks like your code has a syntax-ical problem!",
+    TypeError: "Whoops, it looks like you're trying to mix oil and water (or at least, that's what it seems)!",
+    RuntimeError: "Uh-oh, it looks like something has gone awry in the runtime department!",
+    OverflowError: "It seems like you've got a numerical overflow on your hands! Maybe try a smaller number?",
+    MemoryError: "It looks like you're running low on memory! Maybe try to free up some space or upgrade your RAM?",
+    NameError: "Hmm, it looks like you've got a name that's not quite what you expected...",
+    ValueError: "Whoops, it looks like you've got a value that's not quite right! Maybe try checking your math or something?",
+    UnicodeError: "Oops, it looks like you've got some Unicode characters that don't quite match up!",
+    Warning: "Hey, watch out! It looks like something's going to go wrong if you're not careful...",
+    ImportError: "It looks like you're trying to import something that doesn't exist... or maybe it's just hiding from you?",
+    EOFError: "Uh-oh, it looks like you've reached the end of the file (or maybe it's just hiding from you?)",
+    SystemExit: "It seems like someone's trying to shut down the system... or maybe it's just a prank?",
+    KeyboardInterrupt: "Whoops, it looks like someone's hit the brakes (or maybe they just needed to take a break?)",
+    ReferenceError: "Hmm, it looks like you're trying to reference something that doesn't exist... or maybe it's just playing hide-and-seek?",
+    AttributeError: "It looks like you're trying to access something that doesn't exist... or maybe it's just hiding its secrets?",
+    IOError: "Whoops, it looks like you've got an input/output problem on your hands... maybe try checking your cables or something?",
+    LookupError: "Hmm, it looks like you're trying to look up something that doesn't exist... or maybe it's just hiding from you?",
+    IndexError: "It looks like you're trying to access something that's out of bounds... or maybe it's just playing with boundaries?",
+    KeyError: "Hmm, it looks like you're trying to access something that doesn't exist... or maybe it's just hiding its keys?"
+}

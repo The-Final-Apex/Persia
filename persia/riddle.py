@@ -1,0 +1,22 @@
+error_messages = {
+    SystemError: "I'm always coming, yet never stay, My presence is felt, but I'm gone away. What am I?",
+    SyntaxError: "I'm a puzzle, a brain teaser, you see, A code that's incorrect, a syntax spree. What's wrong with me?",
+    TypeError: "I'm a shape-shifter, a chameleon too, My form changes constantly, what can you do? What am I?",
+    RuntimeError: "I'm a mystery, a puzzle to unwind, A problem that's hidden, but hard to find. What am I?",
+    OverflowError: "I'm a river that's overflowing its banks, A numerical tide that's hard to drain. What am I?",
+    MemoryError: "I'm a treasure chest, but it's empty and bare, No room to store more, no space to spare. What am I?",
+    NameError: "I'm a name that's unknown, a label unseen, A variable that's missing, or perhaps a dream? What am I?",
+    ValueError: "I'm a value that's false, a measure that's awry, A calculation that's wrong, or maybe it's dry. What am I?",
+    UnicodeError: "I'm a character that's lost, a code that's astray, A letter that's missing, or maybe it's at play. What am I?",
+    Warning: "I'm a warning sign, a beacon in the night, A message that's urgent, but not quite in sight. What am I?",
+    ImportError: "I'm a path that's unclear, a road that's unseen, A module that's missing, or perhaps a dream unseen. What am I?",
+    EOFError: "I'm an ending point, a final stop in sight, The end of the journey, or perhaps just out of sight. What am I?",
+    SystemExit: "I'm an exit sign, a door that's closed tight, A system that's shutting down, or perhaps it's just in flight. What am I?",
+    KeyboardInterrupt: "I'm an interrupter, a pause in the pace, A signal that's sent, or perhaps just a break in space. What am I?",
+    ReferenceError: "I'm a reference point, a landmark in the night, A guide that's lost, or perhaps just out of sight. What am I?",
+    AttributeError: "I'm an attribute that's missing, or perhaps astray, A property that's lost, or maybe it's just gone away. What am I?",
+    IOError: "I'm an input/output problem, a glitch in the system, A file that's missing, or perhaps just disconnected from the dimmest. What am I?",
+    LookupError: "I'm a lookup table, a guide to find and seek, A reference book that's lost, or perhaps just hard to read. What am I?",
+    IndexError: "I'm an index finger, pointing to the way, A direction that's wrong, or perhaps just out of play. What am I?",
+    KeyError: "I'm a key that's missing, or perhaps astray, A password that's wrong, or maybe it's just gone away. What am I?"
+}
